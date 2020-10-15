@@ -1,4 +1,4 @@
-# TodoApp
+# Todo App
 React Native "Hello World"
 #### Todo App Screenshots
 
